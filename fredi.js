@@ -5,7 +5,7 @@ const pino = require("pino");
 const fs = require("fs-extra");
 const path = require("path");
 const conf = require("./set");
-const session = conf.session.replace(/LUCKY-MD;;;=>/g, "");
+const session = conf.session.replace(/RICHY-OBEDX;;;=>/g, "");
 require("dotenv").config({ path: "./config.env" });
 
 let auto_reply_message = "Hello, my owner is unavailable. Kindly leave a message.";
@@ -36,7 +36,7 @@ setTimeout(() => {
     const sockOptions = {
       version,
       logger: pino({ level: "silent" }),
-      browser: ['LUCKY-MD', "safari", "1.0.0"],
+      browser: ['RICHY-OBEDX', "safari", "1.0.0"],
       printQRInTerminal: true,
       fireInitQueries: false,
       shouldSyncHistoryMessage: true,
@@ -70,7 +70,7 @@ setTimeout(() => {
         const callerId = callData[0].from;
         await zk.rejectCall(callId, callerId);
         await zk.sendMessage(callerId, {
-          text: "❗📵I AM LUCKY MD | I REJECT THIS CALL BECAUSE MY OWNER IS NOT AVAILABLE FOR NOW. KINDLY SEND MESSAGE RIGHT NOW."
+          text: "❗📵I AM RICHY-OBEDX | I REJECT THIS CALL BECAUSE MY OWNER IS NOT AVAILABLE FOR NOW. KINDLY SEND MESSAGE RIGHT NOW."
         });
       }
     });
@@ -96,7 +96,7 @@ setTimeout(() => {
 
         if (deletedMessage) {
           const deletedBy = deletedMessage.key.participant || deletedMessage.key.remoteJid;
-          let notification = `*🤦LUCKY ANTIDELETE🤦*`;
+          let notification = `*🤦RICHY ANTIDELETE🤦*`;
           notification += `*Time deleted🌹:* ${new Date().toLocaleString()}`;
           notification += `*Deleted by🌺:* @${deletedBy.split('@')[0]}`;
 
@@ -156,7 +156,7 @@ setTimeout(() => {
       zk.ev.on("messages.upsert", async (m) => {
         const { messages } = m;
         let emojis = [];
-        const emojiFilePath = path.resolve(__dirname, 'luckybase', 'like.json');
+        const emojiFilePath = path.resolve(__dirname, 'Richybase', 'like.json');
 
         try {
           const data = fs.readFileSync(emojiFilePath, 'utf8');
