@@ -7,8 +7,8 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/7irwqn.jpeg",
-  "repository": "https://github.com/Fred1e/LUCKY_MD",
+  "logo": "https://files.catbox.moe/67ln01.jpg",
+  "repository": "https://github.com/Trippleo1802/RICHY-OBEDX",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -76,7 +76,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧⁠LUCKY_MD✧",
+      "value": "✧RICHY-OBEDX✧",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -106,7 +106,7 @@
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/7irwqn.jpeg",
+      "value": "https://files.catbox.moe/67ln01.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -116,7 +116,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "value": "25491637868",
       "required": false
     },
     "WARN_COUNT": {
