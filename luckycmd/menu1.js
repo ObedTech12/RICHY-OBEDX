@@ -45,7 +45,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
 
-    let menuMsg = `𝙻𝚞𝚌𝚔𝚢 𝙼𝚍 𝙲𝚖𝚍`;
+    let menuMsg = `Richy ObedX 𝙲𝚖𝚍`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -74,7 +74,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                     title: "RICHY-OBEDY MENU LIST",
                     body: "Dont worry bro I have more tap to follow",
                     thumbnailUrl: "https://files.catbox.moe/idb19j.jpeg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+                    sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
