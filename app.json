@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/67ln01.jpg",
+  "logo": "https://files.catbox.moe/ibi3x2.jpg",
   "repository": "https://github.com/Trippleo1802/RICHY-OBEDX",
   "succes_url": "/",
   "stack": "container",
@@ -101,12 +101,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "ObedTechX",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/67ln01.jpg",
+      "value": "https://files.catbox.moe/ibi3x2.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
@@ -116,7 +116,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "25491637868",
+      "value": "254791637868",
       "required": false
     },
     "WARN_COUNT": {
