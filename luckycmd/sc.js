@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/Trippleo1802/RICHY-OBEDX
 
 *TELEGRAM GROUP*
-> https://t.me/+u3zlb5y6OfxhOTdk
+> https://t.me/ObedTechx
 
 *FOR DEVELOPER T.ME*
 > https://t.me/OBED TECHX
