@@ -38,7 +38,7 @@ ezra({
     'text': "Hello 👋\n\nClick on the button below to Follow the OFFICIAL *RICHY OBEDX* WhatsApp Channel",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f',
+        'sourceUrl': 'https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I',
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Join Our WhatsApp Channel",
@@ -63,7 +63,7 @@ ezra({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Join Our Developer Place",
-        'body': "Click to join the official LUCKY-MD Owner Inbox!"
+        'body': "Click to join the official OBED TECHX Owner Inbox!"
       }
     }
   });
@@ -189,7 +189,7 @@ ezra({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Follow YouTube Channel📄",
-        'body': "Click to Subscribe the official FREDIETECH YouTube Channel!"
+        'body': "Click to Subscribe the official OBEDTECHX YouTube Channel!"
       }
     }
   });
