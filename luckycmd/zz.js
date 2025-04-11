@@ -90,13 +90,13 @@ ezra({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*RICHY OBEDX AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in KISII KENYA 
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by ObedTech 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/Trippleo1802/RICHY-OBEDX
 
 > regards frediezra`,
         audio: { url: downloadUrl },
@@ -114,13 +114,13 @@ ezra({
         },
       },
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*RICHY OBEDX AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in KISII KENYA 
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by ObedtTechX 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/Trippleo1802/RICHY-OBEDX
 
 > regards frediezra`,
         document: { url: downloadUrl },
@@ -138,15 +138,15 @@ ezra({
         },
       },
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*RICHY OBEDX AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in KISII KENYA 
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by ObedTechX 
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/Trippleo1802/RICHY-OBEDX
 
-> regards frediezra`,
+> regards ObedTechX`,
         document: { url: downloadUrl },
         mimetype: 'audio/mp4',
         contextInfo: {
