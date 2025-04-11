@@ -1,5 +1,5 @@
 const { ezra } = require('../fredi/ezra');
-const {addOrUpdateDataInAlive , getDataFromAlive} = require('../luckydatabase/alive')
+const {addOrUpdateDataInAlive , getDataFromAlive} = require('../Richydatabase/alive')
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 
@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *LUCKY MD 2025*`
+ *Richy ObedX 2025*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -74,7 +74,7 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("Hello Fahm Lucky Md Is A Live 24hrs Enjoy To Use All Time🤗") ; return};
+        if(!superUser) { repondre("Hello Fahm Richy ObedX Is A Live 24hrs Enjoy To Use All Time🤗") ; return};
 
       await   repondre("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
          repondre("don't do fake thinks :)")
