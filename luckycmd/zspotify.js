@@ -4,7 +4,7 @@ const axios = require("axios");
 ezra({
   nomCom: "spotifylist",
   aliases: ["spotifysearch", "splaylist"],
-  categorie: "Fledi-search",
+  categorie: "Obedi-search",
   reaction: "🎬"
 }, async (dest, zk, commandeOptions) => {
   const { repondre, arg } = commandeOptions;
@@ -48,7 +48,7 @@ ezra({
             showAdAttribution: true,
             title: "RICHY SPOTIFY PLAY",
             body: "Credit by ObedTechX",
-            sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+            sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
             mediaType: 1,
             renderLargerThumbnail: false,
           },
