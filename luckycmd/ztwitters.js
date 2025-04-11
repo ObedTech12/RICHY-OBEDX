@@ -48,9 +48,9 @@ ezra({
           mentionedJid: [dest],
           externalAdReply: {
             showAdAttribution: true,
-            title: "LUCKY MD TWITTER SEARCH",
-            body: "Pambe kwa Frediezra",
-            sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+            title: "RICHY OBEDX TWITTER SEARCH",
+            body: "Pambe kwa Richy ObedX",
+            sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
             mediaType: 1,
             renderLargerThumbnail: false,
           },
