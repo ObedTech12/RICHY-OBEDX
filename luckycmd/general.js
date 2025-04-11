@@ -1,5 +1,5 @@
 const { ezra } = require("../fredi/ezra");
-const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../luckydatabase/sudo")
+const {getAllSudoNumbers,isSudoTableNotEmpty} = require("../Richydatabase/sudo")
 const conf = require("../set");
 
 ezra({ nomCom: "owner", categorie: "luckymd-devs", reaction: "🚜" }, async (dest, zk, commandeOptions) => {
@@ -51,16 +51,16 @@ ezra({ nomCom: "owner", categorie: "luckymd-devs", reaction: "🚜" }, async (de
   }
 });
 
-ezra({ nomCom: "dev", categorie: "luckymd-devs", reaction: "🚜" }, async (dest, zk, commandeOptions) => {
+ezra({ nomCom: "dev", categorie: "Richy ObedX-devs", reaction: "🚜" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "frediezra", numero: "255620814108" },
-      { nom: "freditech", numero: "255752593977" },
+      { nom: "RichyObedX", numero: "254791637868" },
+      { nom: "ObedTechX", numero: "254701082940" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Uuhh Hellow This Is Lucky Md Dev Contacts Check✅:\n\n";
+    let message = "Uuhh Hellow This Is Richy ObedX Dev Contacts Check✅:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -95,7 +95,7 @@ ezra({ nomCom: "support", categorie: "luckymd-devs" }, async (dest, zk, commande
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f`},{quoted :ms})
+  await zsendMessage(auteurMessage,{text :`https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I`},{quoted :ms})
 
 })
 
@@ -103,12 +103,12 @@ ezra({ nomCom: "developer", categorie: "General", reaction: "🚜" }, async (des
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "frediezra", numero: "255752593977" },
-      { nom: "fredi tech", numero: "255620814108" },
+      { nom: "RichyObedX", numero: "254791637868" },
+      { nom: "ObedtechX", numero: "254701082940" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = " Hello👋 *Welcome to Lucky md * here is the developer numbers:\n\n";
+    let message = " Hello👋 *Welcome to RICHY OBEDX * here is the developer numbers:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
