@@ -29,14 +29,6 @@
  <a href="https://dashboard.heroku.com/new?template=https://github.com/criss-vevo/CRISS-AI"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY%20ON%20HEROKU-white" alt="Heroku" width="300"></a>
 
   
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-href="https://obed-webs.onrender.com/"><img src="https://img.shields.io/badge/Fork-white" alt="OBED WEBS" width="100"></a>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   
 
