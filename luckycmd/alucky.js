@@ -21,7 +21,7 @@ ezra({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Join Our WhatsApp Group",
-        'body': "Click to join the official LUCKY-MD WhatsApp group!"
+        'body': "Click to join the official RICHY OBEDX WhatsApp group!"
       }
     }
   });
