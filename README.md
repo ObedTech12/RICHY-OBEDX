@@ -20,7 +20,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
-<a href="https://shorturl.at/WYHGS"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+<a href="https://obed-webs-2.onrender.com/pair"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -33,7 +33,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  
-<a href="https://obed-webs-1.onrender.com/"><img src="https://img.shields.io/badge/Obed%20webs%20site-white" alt="Obed techx web" width="300"></a>
+<a href="https://obed-webs-2.onrender.com"><img src="https://img.shields.io/badge/Obed%20webs%20site-white" alt="Obed techx web" width="300"></a>
   
 
   
