@@ -14,7 +14,7 @@
 
 
 
-<a href="https://github.com/criss-vevo/CRISS-AI/fork"><img src="https://img.shields.io/badge/Fork-white" alt="𝐅𝐨𝐫𝐤" width="100"></a>
+<a href="https://github.com/Trippleo1802/RICHY-OBEDX/fork"><img src="https://img.shields.io/badge/Fork-white" alt="𝐅𝐨𝐫𝐤" width="100"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
