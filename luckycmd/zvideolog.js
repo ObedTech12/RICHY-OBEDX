@@ -28,10 +28,10 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "LUCKY MD",
-        body: "Pambe Kwa, Frediezra",
+        title: "RICHY OBEDX",
+        body: "Pambe Kwa, ObedTechX",
         thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+        sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
