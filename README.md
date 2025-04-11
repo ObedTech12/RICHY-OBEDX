@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/criss-vevo">
-    <img alt="criss-vevo logo" height="300" width="300" src="https://files.catbox.moe/ibi3x2.jpg">
+    <img alt="criss-vevo logo" height="300" width="300" src="https://files.catbox.moe/b3yuyf.jpg">
   </a>
 </p>
 
