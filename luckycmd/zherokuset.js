@@ -17,13 +17,13 @@ function getDescriptionFromEnv(varName) {
 // Anti-call function setup
 ezra({
   nomCom: 'anticall',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner. or Lucky owner* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner. or Richy owner* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -59,13 +59,13 @@ ezra({
 
 ezra({
   nomCom: 'autoreact',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -140,7 +140,7 @@ ezra({
 });
 ezra({
   nomCom: 'antidelete',
-  categorie: "LUCKY-SETTING"
+  categorie: "richy-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
@@ -181,13 +181,13 @@ ezra({
 
 ezra({
   nomCom: 'autodownloadstatus',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -222,13 +222,13 @@ ezra({
 
 ezra({
   nomCom: 'startingmessage',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -263,13 +263,13 @@ ezra({
 
 ezra({
   nomCom: 'autoreadmessage',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or RIchy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -304,13 +304,13 @@ ezra({
 
 ezra({
   nomCom: 'pm-permit',
-  categorie: "LUCKY-SETTING"
+  categorie: "Richy-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -344,13 +344,13 @@ ezra({
 });
 ezra({
   nomCom: 'autosavecontact',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -384,13 +384,13 @@ ezra({
 });
 ezra({
   nomCom: 'autoreply',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -425,13 +425,13 @@ ezra({
 
 ezra({
   nomCom: 'autobio',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -466,13 +466,13 @@ ezra({
 
 ezra({
   nomCom: 'publicmode',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -507,13 +507,13 @@ ezra({
 
 ezra({
   nomCom: 'autorecord',
-  categorie: "LUCKY-SETTING"
+  categorie: "Richy-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -548,13 +548,13 @@ ezra({
 
 ezra({
   nomCom: 'autotyping',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richyy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -589,13 +589,13 @@ ezra({
 
 ezra({
   nomCom: 'alwaysonline',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richyy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -630,13 +630,13 @@ ezra({
 
 ezra({
   nomCom: 'privatemode',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -670,13 +670,13 @@ ezra({
 });
 ezra({
   nomCom: 'autoreactstatus',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -710,13 +710,13 @@ ezra({
 });
 ezra({
   nomCom: 'audioreply',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
