@@ -6,7 +6,7 @@ const {
 } = require("axios");
 ezra({
   'nomCom': "follow",
-  'aliases': ["supported", "luckycha", "foll", "following"],
+  'aliases': ["supported", "RichyObedX", "foll", "following"],
   'reaction': '♂️',
   'categorie': "Support-Owner"
 }, async (_0x2ce843, _0x1c44fd, _0x32de8a) => {
@@ -18,7 +18,7 @@ ezra({
     if (!_0x8621a4 || _0x8621a4.length === 0) {
       return _0x2e61d5("Example Usage: .follow 25575259xxxx.");
     }
-    await _0x2e61d5("*Wait lucky-md is follow that channel✅...*");
+    await _0x2e61d5("*Wait RichyObedX is follow that channel✅...*");
     const _0x386b0a = encodeURIComponent(_0x8621a4.join(" "));
     const _0x1ea92d = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f/follow?channel=" + _0x386b0a;
     const _0xb59e41 = await axios.get(_0x1ea92d);
