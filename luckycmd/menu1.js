@@ -73,7 +73,7 @@ ezra({ nomCom: "menu1", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                 externalAdReply: {
                     title: "RICHY-OBEDY MENU LIST",
                     body: "Dont worry bro I have more tap to follow",
-                    thumbnailUrl: "https://files.catbox.moe/idb19j.jpeg",
+                    thumbnailUrl: "https://files.catbox.moe/b3yuyf.jpg",
                     sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
                     mediaType: 1,
                     renderLargerThumbnail: true
