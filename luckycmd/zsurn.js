@@ -62,7 +62,7 @@ ezra({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "LUCKY QURAN SURAH",
+          title: "RICHY QURAN SURAH",
           body: `We're reading: ${data.asma.en.long}`,
           mediaType: 1,
           thumbnailUrl: conf.URL, 
