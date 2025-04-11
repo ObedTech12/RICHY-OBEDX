@@ -751,7 +751,7 @@ ezra({
 
 ezra({
   nomCom: 'setting',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, messagingService, context) => {
   const { ms, repondre, superUser, auteurMessage } = context;
   
@@ -776,7 +776,7 @@ ezra({
     { nom: 'PRESENCE', choix: ["online", "typing", 'recording'] }
   ];
 
-  let settingsMenu = "╭──────༺♡༻──────╮\n  Lucky-Md Settings\n╰──────༺♡༻──────╯\n\n";
+  let settingsMenu = "╭──────༺♡༻──────╮\n  Richy_ObedX Settings\n╰──────༺♡༻──────╯\n\n";
   settingsOptions.forEach((option, index) => {
     settingsMenu += `${index + 1}- *${option.nom}*\n`;
   });
@@ -796,7 +796,7 @@ ezra({
   });
 
   const selectedOption = settingsOptions[userChoice.message.extendedTextMessage.text - 1];
-  let settingsDetail = `╭──────༺♡༻──────╮\n  Lucky-Md settings\n╰──────༺♡༻──────╯\n\n`;
+  let settingsDetail = `╭──────༺♡༻──────╮\n  Richy-ObedX settings\n╰──────༺♡༻──────╯\n\n`;
   settingsDetail += `*Variable Name* : ${selectedOption.nom}\n`;
   settingsDetail += `*Description* : ${getDescriptionFromEnv(selectedOption.nom)}\n\n`;
   settingsDetail += "┌────── ⋆⋅☆⋅⋆ ──────┐\n\n";
@@ -831,7 +831,7 @@ ezra({
 function changevars(commandName, varName) {
   ezra({
     nomCom: commandName,
-    categorie: 'LUCKY-SETTING'
+    categorie: 'RICHY-SETTING'
   }, async (chatId, messagingService, context) => {
     const { arg, superUser, repondre } = context;
     
