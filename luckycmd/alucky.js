@@ -56,7 +56,7 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the button below to contact the OFFICIAL *LUCKY-MD* Owner",
+    'text': "Hello 👋\n\nClick on the button below to contact the OFFICIAL *RICHY OBEDX* Owner",
     'contextInfo': {
       'externalAdReply': {
         'sourceUrl': 'https:// wa.me/25491637868',
@@ -84,7 +84,7 @@ ezra({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Follow Facebook Page 📄",
-        'body': "Click to join the official FREDIETECH Facebook Page!"
+        'body': "Click to join the official RICHY OBEDX Facebook Page!"
       }
     }
   });
@@ -98,14 +98,14 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *FREDIETECH* Instagram Page",
+    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *RICHY OBEDX* Instagram Page",
     'contextInfo': {
       'externalAdReply': {
         'sourceUrl': 'https://www.instagram.com/fredi.simba.tz',
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Follow Instagram Page 📄",
-        'body': "Click to join the official FREDIETECH Instagram Page!"
+        'body': "Click to join the official RICHY OBEDX Instagram Page!"
       }
     }
   });
@@ -147,7 +147,7 @@ ezra({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Follow TikTok Page 📄",
-        'body': "Click to join the official FREDIETECH TikTok Page!"
+        'body': "Click to join the official RICHY OBEDX TikTok Page!"
       }
     }
   });
@@ -168,7 +168,7 @@ ezra({
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Join Telegram Group📄",
-        'body': "Click to join the official LUCKY_MD Telegram Group!"
+        'body': "Click to join the official RICHY OBEDX Telegram Group!"
       }
     }
   });
