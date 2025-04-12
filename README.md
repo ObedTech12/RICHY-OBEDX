@@ -36,5 +36,16 @@
 <a href="https://obed-webs-3.onrender.com/"><img src="https://img.shields.io/badge/Obed%20webs%20site-white" alt="Obed techx web" width="300"></a>
   
 
-  
+
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I)
+
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+  <p align="left">
+  <a href="https://github.com/Trippleo1802/RICHY-OBEDX">
+    <img alt="Richy-ObedX logo" height="300" width="300" src="https://files.catbox.moe/h7g302.jpg">
+  </a>
 
