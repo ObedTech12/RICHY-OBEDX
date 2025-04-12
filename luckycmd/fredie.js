@@ -34,21 +34,21 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
-━━━━❍ *FREDIE TECH INFO* ❍━━━━
+━━━━❍ *OBEDIE TECH INFO* ❍━━━━
 ╭──━━━━━━━━━━━━━━━━━━━❍ 
 │
-│  _*Support channel by follow*_ ;https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
-│  _*Join Our WhatsApp group*_ ;https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9
-│  _*WhatsApp Contact As*_ ;Https://wa.me/255752593977 
-│  _*WhatsApp Bot Fork And Star*_ ;https://github.com/Fred1e/LUCKY_MD
-│  _*Telegram Group*_ ;https://t.me/+u3zlb5y6OfxhOTdk
+│  _*Support channel by follow*_ ;https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I
+│  _*Join Our WhatsApp group*_ ;https://chat.whatsapp.com/DfJTRlOtIc5HTEFptXYvsV
+│  _*WhatsApp Contact As*_ ;Https://wa.me/254701082940 
+│  _*WhatsApp Bot Fork And Star*_ ;https://github.com/Trippleo1802/RICHY-OBEDX
+│  _*Telegram Group*_ ;https://t.me/ObedTechx
 │  _*Telegram Channel*_ ;https://t.me/FredieTech_BusinessPlace
 │  _*Telegram Bot*_ ;Https://t.me/@fredidurry_bot
-│  _*Telegram Contact As*_ ; t.me/freditech 
+│  _*Telegram Contact As*_ ;t.me/ObedTechx 
 │  _*Instagram*_ ;https://www.instagram.com/fredi.simba.tz
 │  _*Facebook*_ ;https://www.facebook.com/profile.php?id=61553209932337
 │  _*YouTube Channel Subscribe For Tutorial*_ ;https://www.youtube.com/@freeonlinetvT1
-│  _*Follow My Github For About Info*_ ;https://github.com/Fred1e
+│  _*Follow My Github For About Info*_ ;https://github.com/Trippleo1802
 │
 ╰──━━━━━━━━━━━━━━━━━━━❍ 
 ╭──━━━━━━━━━━━━━━━──➳❍ 
@@ -64,7 +64,7 @@ let menuMsg = `
 
    ╭──━━━━━━━━━━━━❖
 ╭──━━━➳⊷•∞•➻━━━───❂
-║ 🄻🄴🄲🄺🅈_🄼🄳
+║ Richy Obed
 ╰──━━━➳⊷•∞•➻━━━───❂
    ╰──━━━━━━━━━━━━❖
 
@@ -88,10 +88,10 @@ let menuMsg = `
 ┃⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢁⣴⣿⣿⣿⠗⠄⠄⣿
 ┃⠈⠻⣿⣿⣿⣿⣿⣿⠿⠛⣉⣤⣾⣿⣿⣿⣿⣇⠠⠺⣷⣿
 ┃⣦⣄⣈⣉⣉⣉⣡⣤⣶⣿⣿⣿⣿⣿⣿⣿⠉⠁⣀⣼⣿⣿
-│        *LUCKY MD V7*
+│        *Richy ObedX V7*
 ╰─━━━━✣•∞•✣━━━━──❍ 
 
-> ©Fredie projects
+> ©Obedie projects
 
  `;
 
@@ -99,7 +99,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper Fredi Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Richy ObedX*, déveloper Obedi Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
