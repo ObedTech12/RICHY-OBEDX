@@ -6,7 +6,7 @@
   "logo": "https://files.catbox.moe/b3yuyf.jpg",
   "keywords": ["Obed-TechX", "Richy_ObedX", "mdtech"],
   "documentation-link": "https://obed-webs-3.onrender.com/pair",
-  "owner-verification":"frediezra360@gmail.com",
+  "owner-verification":"omokeobed0@gmail.com",
   "env": {
     "PREFIX":
     {
@@ -73,7 +73,7 @@
     },
     "BOT_NAME": {
       "description": "you must give a name for you bot uhh??!!",
-      "value": "✧⁠LUCKY_MD✧",
+      "value": "✧RichyObedX✧",
       "required": false 
     },
     "PUBLIC_MODE": {
@@ -98,12 +98,12 @@
     },
     "OWNER_NAME": {
       "description": "don't you have a name bro.Insert your name here!!",
-      "value": "FrediEzra",
+      "value": "ObedTechX",
       "required": false
     },
     "URL": {
       "description": "you must add your bot image url.Get your image url now and fill it here",
-      "value": "https://files.catbox.moe/7irwqn.jpeg",
+      "value": "https://files.catbox.moe/b3yuyf.jpg",
       "required": true
     },
     "AUTO_READ_MESSAGES": {
