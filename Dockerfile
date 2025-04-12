@@ -10,8 +10,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Fred1e/LUCKY_MD /root/lucky_bot
-WORKDIR /root/lucky_Bot/
+RUN git clone https://github.com/Trippleo1802/RICHY-OBEDX /root/lucky_bot
+WORKDIR /root/Richy_Bot/
 
 
 COPY package.json .
@@ -22,4 +22,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "lucky"]
+CMD ["npm", "run" , "richy"]
