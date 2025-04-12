@@ -7,9 +7,9 @@ ezra(
     async (dest, zk, commandeOptions) => {
         console.log("Commande saisie !!!s");
         let z =
-            "Hello I'm *✧⁠LUCKY_MD✧* \n\n " +
+            "Hello I'm *✧RICHY_OBEDX✧* \n\n " +
             "I'm a Whatsapp Bot Multi-Device";
-        let d = " Made By *Fredie Sir*";
+        let d = " Made By *Obedie Sir*";
         let varmess = z + d;
         var img = "https://files.catbox.moe/7irwqn.jpeg";
         await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
@@ -41,7 +41,7 @@ const sentMsg1  = await zk.sendMessage(dest, { text: 'Oh! Hi There' })
 // send a reply messagge
 const sentMsg2  = await zk.sendMessage(dest, { text: 'Oh! Hi There' }, { quoted: ms })
 // send a mentions message
-const sentMsg3  = await zk.sendMessage(dest, { text: '@255752593977', mentions: ['12345678901@s.whatsapp.net'] })
+const sentMsg3  = await zk.sendMessage(dest, { text: '@254701082940', mentions: ['12345678901@s.whatsapp.net'] })
 // send a location!
 const sentMsg4  = await zk.sendMessage(
     dest, 
@@ -108,7 +108,7 @@ const sections = [
 	title: "Section 2",
 	rows: [
 	    {title: "Option 3", rowId: "option3"},
-	    {title: "Option 4", rowId: "option4", description: "This is a description Lucky Md"}
+	    {title: "Option 4", rowId: "option4", description: "This is a description Richy ObedX"}
 	]
     },
 ]
