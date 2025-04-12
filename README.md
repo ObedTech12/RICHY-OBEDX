@@ -2,8 +2,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="left">
-  <a href="https://github.com/criss-vevo">
-    <img alt="criss-vevo logo" height="300" width="300" src="https://files.catbox.moe/b3yuyf.jpg">
+  <a href="https://github.com/Trippleo1802/RICHY-OBEDX">
+    <img alt="Richy-ObedX logo" height="300" width="300" src="https://files.catbox.moe/b3yuyf.jpg">
   </a>
 </p>
 
