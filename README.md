@@ -41,8 +41,6 @@
 [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I)
 
  
-'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
