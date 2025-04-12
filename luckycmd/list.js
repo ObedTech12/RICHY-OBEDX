@@ -59,10 +59,10 @@ ezra({
         text: menu,
         contextInfo: {
             externalAdReply: {
-                title: "LUCKY-MD",
-                body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 frediezra",
+                title: "RICHY OBEDX",
+                body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 ObedTechX",
                 thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg",
-                sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+                sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
