@@ -403,7 +403,7 @@ ezra({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner 🤦*");
+    return repondre("*This command is restricted to the bot owner or Richy owner 🤦*");
   }
 
   // Ensure Heroku app name and API key are set
@@ -423,7 +423,7 @@ ezra({
         `https://api.heroku.com/apps/${herokuAppName}/builds`,
         {
           source_blob: {
-            url: "https://github.com/Fred1e/LUCKY_MD/tarball/main",
+            url: "https://github.com/Trippleo1802/RICHY-OBEDX",
           },
         },
         {
