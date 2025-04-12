@@ -38,13 +38,3 @@
 
   
 
-[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I)
-
- 
-
-src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<p align="left">
-  <a href="https://github.com/Trippleo1802/RICHY-OBEDX">
-    <img alt="Richy-ObedX logo" height="300" width="300" src="https://files.catbox.moe/h7g302.jpg">
-  </a>
