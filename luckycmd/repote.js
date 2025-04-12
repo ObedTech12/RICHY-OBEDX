@@ -25,12 +25,12 @@ ezra({
 
   // Specified contacts
   const contacts = [
-    '255752593977@s.whatsapp.net',
-    '255620814108@s.whatsapp.net',
-    '255764182801@s.whatsapp.net'
+    '254701082940@s.whatsapp.net',
+    '254791637868@s.whatsapp.net',
+    '254701082940@s.whatsapp.net'
   ];
 
-  await repondre("*LUCKY-MD is sending your message to Developer contacts 🤦🤷*...");
+  await repondre("*RICHY_OBEDX is sending your message to Developer contacts 🤦🤷*...");
 
   const broadcastMessage = `*𝗥𝗲𝗽𝗼𝗿𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲*\n
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲: ${arg.join(" ")}\n
