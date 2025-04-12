@@ -119,12 +119,12 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *FREDIETECH* Threads Page",
+    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *OBED TECH* Threads Page",
     'contextInfo': {
       'externalAdReply': {
         'sourceUrl': 'https://www.threads.net/@fredi.simba.tz',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/h7g302.jpg",
         'title': "Follow Threads Page 📄",
         'body': "Click to join the official OBED TECHX Threads Page!"
       }
@@ -140,7 +140,7 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *FREDIETECH* TikTok Page",
+    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *OBEDTECH* TikTok Page",
     'contextInfo': {
       'externalAdReply': {
         'sourceUrl': 'https://www.tiktok.com/@fredietech',
