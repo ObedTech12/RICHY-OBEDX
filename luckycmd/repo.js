@@ -45,7 +45,7 @@ ezra({
     const { repondre, auteurMessage, nomAuteurMessage } = context;
 
     try {
-        const response = await axios.get("https://api.github.com/repos/Fred1e/LUCKY_MD");
+        const response = await axios.get("https://api.github.com/repos/Trippleo1802/RICHY-OBEDX");
         const repoData = response.data;
 
         if (repoData) {
