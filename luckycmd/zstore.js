@@ -60,7 +60,7 @@ ezra({
 });
 ezra({
   nomCom: "angry",
-  categorie: "fledi-fun",
+  categorie: "Obedi-fun",
   reaction: "🥺"
 }, async (dest, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
