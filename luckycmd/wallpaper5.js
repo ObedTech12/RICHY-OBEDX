@@ -16,7 +16,7 @@ ezra({
     'image': {
       'url': "https://telegra.ph/file/62c71795586237398b130.jpg"
     },
-    'caption': "🚗𝗥𝗮𝗻𝗱𝗼𝗺 𝘄𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 \n\n 🚗Download it and set it to your wallpaper 𝗙𝗿𝗼𝗺 (LUCKY-𝗠𝗗)🚗MADE BY FREDIE ADMIN"
+    'caption': "🚗𝗥𝗮𝗻𝗱𝗼𝗺 𝘄𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 \n\n 🚗Download it and set it to your wallpaper 𝗙𝗿𝗼𝗺 (RICHY_OBEDX)🚗MADE BY OBEDIE ADMIN"
   });
 });
 console.log("mon test");
