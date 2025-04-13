@@ -450,7 +450,7 @@ ezra({
     const _0x9a395b = await _0x2c3517.groupRequestParticipantsUpdate(_0x43946b, [_0x5dcd51.jid], 'approve');
     console.log(_0x9a395b);
   }
-  _0x298913("All pending participants have been approved to join by Lucky md.");
+  _0x298913("All pending participants have been approved to join by Richy_ObedX.");
 });
 
 ezra({
@@ -489,7 +489,7 @@ ezra({
       'document': _0x511dab.readFileSync("./contacts.vcf"),
       'mimetype': "text/vcard",
       'fileName': _0x38463f.subject + '.Vcf',
-      'caption': "VCF for " + _0x38463f.subject + "\nTotal Contacts: " + _0x267c2d.length + "\n*KEEP USING LUCKY_MD*"
+      'caption': "VCF for " + _0x38463f.subject + "\nTotal Contacts: " + _0x267c2d.length + "\n*KEEP USING RICHY_OBEDX*"
     }, {
       'ephemeralExpiration': 0x15180,
       'quoted': _0x48a83b
