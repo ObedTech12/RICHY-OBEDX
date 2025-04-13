@@ -242,7 +242,7 @@ var lien="https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html";
          
 
 repondre("  processing ...")
-         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by LUCKY MD*"})
+         await zk.sendMessage(dest,{image:{url:img.image},caption:"\t *Logo by RICHY OBEDX*"})
          
         // await zk.sendMessage(dest,{image:{url:lienImage},caption:"\t *Logo by Lucky-Md*"})
          
@@ -266,7 +266,7 @@ var {ms,repondre,arg,prefixe}=commandeOptions;
     var lien ="https://en.ephoto360.com/create-water-effect-text-online-295.html";
     var img =await mumaker.ephoto(lien,arg);
     repondre(" processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:"  *Logo by LUCKY MD*"})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:"  *Logo by RICHY OBEDX*"})
   }catch(e){repondre(`🥵🥵 ${e}`)}
 
 });
@@ -315,7 +315,7 @@ ezra({ nomCom: "thunder", categorie: "Logo", reaction: "⚡" }, async (dest, zk,
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/online-thunder-text-effect-generator-1031.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by FREDI' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by OBEDI' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -476,7 +476,7 @@ ezra({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOpt
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by LUCKY_MD*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by RICHY OBEDX*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
