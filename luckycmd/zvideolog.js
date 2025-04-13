@@ -5,7 +5,7 @@
 const { ezra } = require("../fredi/ezra");
 const axios = require("axios");
 
-ezra({ nomCom: "videologo", categorie: "Fledi-logo", reaction: "🔖" }, async (dest, zk, commandeOptions) => {
+ezra({ nomCom: "videologo", categorie: "Obedi-logo", reaction: "🔖" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
   const text = arg.join(" ");
 
@@ -80,7 +80,7 @@ D ☞ tiger 🐯 video logo
           await zk.sendMessage(dest, {
             video: { url: logoUrl },
             mimetype: "video/mp4",
-            caption: `> *Downloaded by Lucky Planet*`,
+            caption: `> *Downloaded by Richy Planet*`,
           }, { quoted: ms });
         }
       }
