@@ -100,13 +100,13 @@ ezra({
 
 ezra({
   nomCom: 'autoreadstatus',
-  categorie: "LUCKY-SETTING"
+  categorie: "RICHY-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
@@ -140,13 +140,13 @@ ezra({
 });
 ezra({
   nomCom: 'antidelete',
-  categorie: "richy-SETTING"
+  categorie: "Richy-SETTING"
 }, async (chatId, zk, context) => {
   const { ms, repondre, superUser, auteurMessage, arg } = context;
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner.* 🤦,,idiot");
+    return repondre("*This command is restricted to the bot owner or Richy owner.* 🤦,,idiot");
   }
 
   // Validate user input and respond accordingly
