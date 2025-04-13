@@ -161,7 +161,7 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Join the OFFICIAL *LUCKY_MD* Telegram Group",
+    'text': "Hello 👋\n\nClick on the photo below to Join the OFFICIAL *RICHY OBEDX* Telegram Group",
     'contextInfo': {
       'externalAdReply': {
         'sourceUrl': 'https://t.me/+u3zlb5y6OfxhOTdk',
