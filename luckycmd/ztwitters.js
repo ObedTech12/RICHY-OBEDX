@@ -4,7 +4,7 @@ const axios = require("axios");
 ezra({
   nomCom: "twittersearch",
   aliases: ["xsearch", "twitterlist", "tweetsearch", "xsearch"],
-  categorie: "Fledi-search",
+  categorie: "Obedi-search",
   reaction: "📽️"
 }, async (dest, zk, commandeOptions) => {
   const { repondre, arg } = commandeOptions;
