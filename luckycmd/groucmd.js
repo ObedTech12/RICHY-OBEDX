@@ -152,7 +152,7 @@ const {
     const _0x19afe6 = _0x5488b4.attrs.expiration;
     const _0x794f96 = "I cannot add @" + _0x4766bc.split('@')[0x0] + " due to privacy settings, Let me send an invite link instead.";
     await _0x132613(_0x794f96);
-    let _0x599fb8 = "You have been invited to join the group " + _0x1fd727.subject + ":\n\nhttps://chat.whatsapp.com/" + _0x36611d + "\n\n*POWERRD BY LUCKY_MD*";
+    let _0x599fb8 = "You have been invited to join the group " + _0x1fd727.subject + ":\n\nhttps://chat.whatsapp.com/" + _0x36611d + "\n\n*POWERRD BY RICHY OBEDX*";
     await _0x4375b2.sendMessage(_0x4766bc, {
       'image': {
         'url': _0x3f6faa
@@ -659,7 +659,7 @@ ezra({
               _0x71952("The only actions available are `warn`, `remove`, and `delete`.");
             }
           } else {
-            _0x71952("Type `antilink-all on` to activate the antilink-all feature\nor `antilink-all off` to deactivate the antilink-all feature\nor `antilink-all action/remove` to directly remove the link without notice\nor `antilink-all action/warn` to give warnings\nor `antilink-all action/delete` to remove the link without any sanctions\n\nPlease note that by default, the antilink-all feature is set to delete.\n\n*KEEP USING LUCKY_MD*");
+            _0x71952("Type `antilink-all on` to activate the antilink-all feature\nor `antilink-all off` to deactivate the antilink-all feature\nor `antilink-all action/remove` to directly remove the link without notice\nor `antilink-all action/warn` to give warnings\nor `antilink-all action/delete` to remove the link without any sanctions\n\nPlease note that by default, the antilink-all feature is set to delete.\n\n*KEEP USING RICHY_OBEDX*");
           }
         }
       }
