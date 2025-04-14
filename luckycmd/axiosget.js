@@ -81,7 +81,7 @@ ezra({
     
     const data = response.data;
     const messageText = `
-ᕙ⁠ *LUCKY MD HOLY BIBLE* ᕗ
+ᕙ⁠ *RICHY OBEDX HOLY BIBLE* ᕗ
 
 ✿⁠ *_WE'RE READING:_* ${data.reference}
 
