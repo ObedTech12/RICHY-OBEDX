@@ -98,7 +98,7 @@ ezra({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "LUCKY-MD HOLY BIBLE",
+          title: "RICHY OBEDX  HOLY BIBLE",
           body: `We're reading: ${data.reference}`,
           mediaType: 1,
           thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg", 
@@ -153,7 +153,7 @@ ezra({
         text: definitionMessage,
         contextInfo: {
           externalAdReply: {
-            title: "LUCKY-MD DICTIONARY",
+            title: "RICHY OBEDX DICTIONARY",
             body: `Definition of ${term}`,
             mediaType: 1,
             thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg", 
@@ -187,7 +187,7 @@ ezra({
 
   try {
     // Notify user that pairing is in progress
-    const replyText = "*Wait Luck Md is getting your pair code 🍼✅...*";
+    const replyText = "*Wait Richy-ObedX is getting your pair code 🍼✅...*";
     await repondre(replyText);
 
     // Prepare the API request
@@ -204,7 +204,7 @@ ezra({
         text: pairingCode,
         contextInfo: {
           externalAdReply: {
-            title: "LUCKY-MD PAIR CODE",
+            title: "OBED PAIR CODE",
             body: "Here is your pairing code:",
             mediaType: 1,
             thumbnailUrl: conf.URL, 
@@ -265,7 +265,7 @@ Regards ${conf.BOT} `;
       text: formattedMessage,
       contextInfo: {
         externalAdReply: {
-          title: "LUCKY-MD ELEMENT INFORMATION",
+          title: "RICHY OBEDX ELEMENT INFORMATION",
           body: "Here is the information you requested:",
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -324,7 +324,7 @@ ezra({
       text: githubMessage,
       contextInfo: {
         externalAdReply: {
-          title: "LUCKY-MD GITHUB USER INFO",
+          title: "RICHY OBEDX GITHUB USER INFO",
           body: `Information about ${data.login}`,
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -467,7 +467,7 @@ ezra({
 
 🔗 *URL*: ${con.content_urls.mobile.page}
 
-> Powered by Lucky Md
+> Powered by Richy Obedx
     `;
     repondre(texa);
   } catch (err) {
