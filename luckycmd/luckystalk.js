@@ -21,7 +21,7 @@ ezra({
       return _0x43ea2d("Invalid username.");
     }
     const _0x32d7c0 = _0x44fe90.data;
-    const _0x521589 = "\n┌──「 *LUCKY TIKTOK STALK* \n▢ *🔖Name:* " + (_0x32d7c0.full_name || "Unknown") + "\n▢ *🔖Username:* " + (_0x32d7c0.username || "Unknown") + "\n▢ *👥Followers:* " + (_0x32d7c0.followers || 'Unknown') + "\n▢ *🫂Following:* " + (_0x32d7c0.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x32d7c0.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x32d7c0.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://tiktok.com/@" + (_0x32d7c0.username || "unknown") + "\n└────────────";
+    const _0x521589 = "\n┌──「 *RICHY TIKTOK STALK* \n▢ *🔖Name:* " + (_0x32d7c0.full_name || "Unknown") + "\n▢ *🔖Username:* " + (_0x32d7c0.username || "Unknown") + "\n▢ *👥Followers:* " + (_0x32d7c0.followers || 'Unknown') + "\n▢ *🫂Following:* " + (_0x32d7c0.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x32d7c0.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x32d7c0.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://tiktok.com/@" + (_0x32d7c0.username || "unknown") + "\n└────────────";
     await _0x43ea2d(_0x521589);
   } catch (_0x23f4e8) {
     console.error(_0x23f4e8);
@@ -47,7 +47,7 @@ ezra({
       return _0x46ffbd("Invalid username.");
     }
     const _0x6778ca = _0x4bf64e.data;
-    const _0x5831e4 = "\n┌──「 *LUCKY INSTAGRAM STALK* \n▢ *🔖Name:* " + (_0x6778ca.full_name || "Unknown") + "\n▢ *🔖Username:* " + (_0x6778ca.username || 'Unknown') + "\n▢ *👥Followers:* " + (_0x6778ca.followers || "Unknown") + "\n▢ *🫂Following:* " + (_0x6778ca.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x6778ca.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x6778ca.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://instagram.com/" + (_0x6778ca.username || "unknown") + "\n└────────────";
+    const _0x5831e4 = "\n┌──「 *RICHY INSTAGRAM STALK* \n▢ *🔖Name:* " + (_0x6778ca.full_name || "Unknown") + "\n▢ *🔖Username:* " + (_0x6778ca.username || 'Unknown') + "\n▢ *👥Followers:* " + (_0x6778ca.followers || "Unknown") + "\n▢ *🫂Following:* " + (_0x6778ca.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x6778ca.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x6778ca.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://instagram.com/" + (_0x6778ca.username || "unknown") + "\n└────────────";
     await _0x46ffbd(_0x5831e4);
   } catch (_0x4acc99) {
     console.error(_0x4acc99);
@@ -73,7 +73,7 @@ ezra({
       return _0x49a05d("Invalid link.");
     }
     const _0x17b4dd = _0x4b5ee8.data;
-    const _0x4e19a3 = "\n┌──「 *LUCKY CHANNEL STALK* \n▢ *🔖Name:* " + (_0x17b4dd.full_name || "Unknown") + "\n▢ *👥Followers:* " + (_0x17b4dd.followers || "Unknown") + "\n▢ *📌Bio:* " + (_0x17b4dd.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x17b4dd.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://whatsapp.com/" + (_0x17b4dd.username || 'unknown') + "\n└────────────";
+    const _0x4e19a3 = "\n┌──「 *RICHY CHANNEL STALK* \n▢ *🔖Name:* " + (_0x17b4dd.full_name || "Unknown") + "\n▢ *👥Followers:* " + (_0x17b4dd.followers || "Unknown") + "\n▢ *📌Bio:* " + (_0x17b4dd.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x17b4dd.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://whatsapp.com/" + (_0x17b4dd.username || 'unknown') + "\n└────────────";
     await _0x49a05d(_0x4e19a3);
   } catch (_0x3d4b0e) {
     console.error(_0x3d4b0e);
@@ -151,7 +151,7 @@ ezra({
       return _0x1f5321("Invalid Facebook token.");
     }
     const _0x309fdb = _0x29642f.data;
-    const _0x2dae21 = "\n┌──「 *LUCKY FACEBOOK STALK* \n▢ *🔖Name:* " + (_0x309fdb.full_name || 'Unknown') + "\n▢ *🔖Username:* " + (_0x309fdb.username || 'Unknown') + "\n▢ *👥Followers:* " + (_0x309fdb.followers || "Unknown") + "\n▢ *🫂Following:* " + (_0x309fdb.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x309fdb.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x309fdb.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://facebook.com/" + (_0x309fdb.username || "unknown") + "\n└────────────";
+    const _0x2dae21 = "\n┌──「 *RICHY FACEBOOK STALK* \n▢ *🔖Name:* " + (_0x309fdb.full_name || 'Unknown') + "\n▢ *🔖Username:* " + (_0x309fdb.username || 'Unknown') + "\n▢ *👥Followers:* " + (_0x309fdb.followers || "Unknown") + "\n▢ *🫂Following:* " + (_0x309fdb.following || "Unknown") + "\n▢ *📌Bio:* " + (_0x309fdb.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0x309fdb.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://facebook.com/" + (_0x309fdb.username || "unknown") + "\n└────────────";
     await _0x1f5321(_0x2dae21);
   } catch (_0xe9b3f7) {
     console.error(_0xe9b3f7);
