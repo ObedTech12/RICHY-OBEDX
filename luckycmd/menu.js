@@ -168,7 +168,7 @@ ezra({ nomCom: "menu", aliases: ["liste", "helplist", "commandlist"], categorie:
         commandsList += "\n╰┈┈┈┈┈┈┈┈┈┈┈⊷\n";
     }
 
-    commandsList += readMore + "\nworld of fredi we are happy\n";
+    commandsList += readMore + "\nworld of Obedi we are happy\n";
 
     try {
         const senderName = message.sender || message.from;
