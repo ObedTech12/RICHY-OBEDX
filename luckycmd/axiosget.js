@@ -156,7 +156,7 @@ ezra({
             title: "RICHY OBEDX DICTIONARY",
             body: `Definition of ${term}`,
             mediaType: 1,
-            thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg", 
+            thumbnailUrl: "https://files.catbox.moe/h7g302.jpg", 
             sourceUrl: conf.GURL,
             showAdAttribution: true, 
           },
@@ -291,7 +291,7 @@ ezra({
   const githubUsername = arg.join(" ");
 
   if (!githubUsername) {
-    return repondre("Give me a valid GitHub username like: github Fred1e");
+    return repondre("Give me a valid GitHub username like: github Trippleo1802");
   }
 
   try {
