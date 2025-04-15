@@ -50,7 +50,7 @@ ezra({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk, 
     let { ms, arg, repondre, prefixe } = commandeOptions;
     try {
         if (!arg || arg == '') {
-            repondre("*_Exemple : * " + prefixe + "naruto lucky");
+            repondre("*_Exemple : * " + prefixe + "naruto Richy");
             return;
         }
         var nar = "https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html";
@@ -59,7 +59,7 @@ ezra({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk, 
         var radio2 = "e0723d60-fc0d-421f-bf8f-a9b9b61e4be6";
         var img = await mumaker.ephoto("https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html", arg.join(' '));
         
-        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t *Logo by LUCKY-MD *" }, { quoted: ms });
+        await zk.sendMessage(dest, { image: { url: img.image }, caption: "\t\t *Logo by RICHY_OBEDX *" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
