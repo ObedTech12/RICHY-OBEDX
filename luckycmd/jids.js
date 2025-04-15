@@ -26,14 +26,14 @@ ezra({
 }, async (m, sock, info) => {
   const { ms, repondre, msgRepondu, auteurMessage, auteurMsgRepondu, superUser } = info;
 
-  if (!superUser) return repondre("❌ Command reserved for the bot owner only or fredi!");
+  if (!superUser) return repondre("❌ Command reserved for the bot owner only or Obedi!");
 
   const jid = msgRepondu ? auteurMsgRepondu : auteurMessage;
   const newsletterJid = jid.replace(/@s\.whatsapp\.net$/, "@newsletter");
 
   sock.sendMessage(m, {
     text: `👤 *User JID:*\n\`\`\`${jid}\`\`\`\n` +
-          `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by LUCKY MD`
+          `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by RICH-OBEDX`
   }, { quoted: ms });
 });
 
@@ -43,14 +43,14 @@ ezra({
 }, async (m, sock, info) => {
   const { ms, repondre, superUser } = info;
 
-  if (!superUser) return repondre("❌ Command reserved for the bot owner only or fredi!");
+  if (!superUser) return repondre("❌ Command reserved for the bot owner only or Obedi!");
 
   const botJid = sock.user.id;
   const newsletterJid = botJid.replace(/@s\.whatsapp\.net$/, "@newsletter");
 
   sock.sendMessage(m, {
     text: `🤖 *Bot JID:*\n\`\`\`${botJid}\`\`\`\n` +
-          `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by LUCKY MD`
+          `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by RICHY-OBEDX`
   }, { quoted: ms });
 });
 
@@ -60,7 +60,7 @@ ezra({
 }, async (m, sock, info) => {
   const { arg, ms, repondre, superUser } = info;
 
-  if (!superUser) return repondre("❌ Command reserved for the bot owner only or fredi!");
+  if (!superUser) return repondre("❌ Command reserved for the bot owner only or Obedi!");
 
   const link = arg[0];
   if (!link || !link.startsWith("https://chat.whatsapp.com/")) {
@@ -71,7 +71,7 @@ ezra({
   if (newsletterJid) {
     sock.sendMessage(m, {
       text: `👥 *Group JID:*\n\`\`\`${link}\`\`\`\n` +
-            `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by LUCKY MD`
+            `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by RICHY OBEDX`
     }, { quoted: ms });
   } else {
     repondre("❌ Could not retrieve valid JID. Make sure the group invite link is correct.");
@@ -95,7 +95,7 @@ ezra({
   if (newsletterJid) {
     sock.sendMessage(m, {
       text: `📣 *Channel Invite ID:*\n\`\`\`${link.split("/").pop()}\`\`\`\n` +
-            `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by LUCKY MD`
+            `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by RICHY OBEDX`
     }, { quoted: ms });
   } else {
     repondre("❌ Could not retrieve valid JID. Make sure the channel invite link is correct.");
