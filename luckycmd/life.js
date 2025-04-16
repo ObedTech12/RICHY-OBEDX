@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { ezra } = require("../fredi/ezra");
 ezra({ nomCom: "altest", reaction: "💐", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '🅼🆈 🅽🅰🅼🅴 🅸🆂 *🅻🆄🅲🅺🆈 🅼🅳* ғᴇʀʀᴀʀɪ 🚗 \n\n ' + "i'm a whatsapp bot multi-device created ";
+    let z = '🅼🆈 🅽🅰🅼🅴 🅸🆂 *RICH OBEDX* ғᴇʀʀᴀʀɪ 🚗 \n\n ' + "i'm a whatsapp bot multi-device created ";
     let d = ' by *ғʀᴇᴅɪᴇᴢʀᴀ255*';
     let varmess = z + d;
     var img = 'https://files.catbox.moe/7irwqn.jpeg';
@@ -19,7 +19,7 @@ console.log("mon test");
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Hi my name is *LUCKY MD* \n\n '+' I'm a Multi-device Whatsapp bot '
+   let z ='Hi my name is *RICHY OBEDX* \n\n '+' I'm a Multi-device Whatsapp bot '
       let d =' developed by *frediezra255*'
       let varmess=z+d
       var img='https://files.catbox.moe/7irwqn.jpeg'
