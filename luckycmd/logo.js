@@ -73,7 +73,7 @@ ezra({ nomCom: "naruto", categorie: "Logo", reaction: "⛩" }, async (dest, zk, 
     try {
       var lien = "https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html";
         if (!arg || arg == "") {
-           repondre(`*exemple :* ${prefixe}didong fredi`)
+           repondre(`*exemple :* ${prefixe}didong obedi`)
             return ;
         }
       console.log(typeof arg[0])
@@ -114,7 +114,7 @@ ezra({ nomCom: "didong", categorie: "Logo", reaction: "📱" }, async (dest, zk,
 ezra({nomCom : "wall",categorie : "Logo",reaction : "👍"} , async (dest,zk,commandeOptions) =>{
 
   const {arg,repondre,ms,prefixe} = commandeOptions;
-  if(!arg[0]) { repondre( `Exemple of using commande:\n ${prefixe}wall Lucky_Md` ); return ;}
+  if(!arg[0]) { repondre( `Exemple of using commande:\n ${prefixe}wall Richy ObedX` ); return ;}
    let text = arg.join(" ")
    mumaker.textpro("https://textpro.me/break-wall-text-effect-871.html", text)
 .then((data) =>{
@@ -450,14 +450,14 @@ ezra({nomCom:"gold",categorie:"Logo",reaction:"🧚🏿‍♀️"},async(dest,zk
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"gold Lucky-MD");return;
+        repondre(prefixe+"gold Richy Obedax");return;
       }
 
     var lien="https://en.ephoto360.com/modern-gold-4-213.html";
 
     var img = await mumaker.ephoto(lien,arg);
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by LUCKY_MD*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by RICHY OBEDX*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -469,7 +469,7 @@ ezra({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOpt
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"arena Lucky-MD");return;
+        repondre(prefixe+"arena Richy ObedX");return;
       }
 
     var lien="https://en.ephoto360.com/create-cover-arena-of-valor-by-mastering-360.html";
@@ -510,7 +510,7 @@ ezra({ nomCom: "gif×1", categorie: "Logo", reaction: "😋" }, async (dest, zk,
     const lien = `https://api.caliph.biz.id/api/kaneki?nama=${encodeURIComponent(text)}&apikey=caliphkey`;
     const img = await mumaker.sendFile(m.chat, lien, 'logo.png', '✅ Result', m);
     repondre("Processing...");
-    await zk.sendMessage(dest, { image: { url: img }, caption: "*Logo by Lucky-Md*" }, { quoted: ms });
+    await zk.sendMessage(dest, { image: { url: img }, caption: "*Logo by Richy ObedX*" }, { quoted: ms });
   } catch (e) {
     repondre(e);
   }
