@@ -258,7 +258,7 @@ ezra({ nomCom: "logo", categorie: "Search", reaction: "🤭" }, async (dest, zk,
         if (logoUrl) {
           await zk.sendMessage(dest, {
             image: { url: logoUrl },
-            caption: `*Created logo by Lucky Md*`,
+            caption: `*Created logo by Obed TechX*`,
           }, { quoted: ms });
         }
       }
