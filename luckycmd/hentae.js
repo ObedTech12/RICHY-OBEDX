@@ -11,7 +11,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky  Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -104,7 +104,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -325,7 +325,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -484,7 +484,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -732,7 +732,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/lulcat?text=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -778,7 +778,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/nokia?image=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY-OBEDX*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -824,7 +824,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/pooh?text1=&text2=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -847,7 +847,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/oogway?text=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY-OBEDX*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -870,7 +870,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/biden?text=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -892,7 +892,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/drip?image=${arg.join(" ")}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -915,7 +915,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/clown?text=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -941,7 +941,7 @@ ezra({
       'image': {
         'url': generatedImageUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, {
       'quoted': messageInstance
     });
@@ -960,7 +960,7 @@ ezra({
   const { respond: sendMessage, args, messageInstance } = context;
   try {
     if (!args || args.length === 0) {
-      return sendMessage("Please insert the image URL and LUCKY-MD will extract the text for you.");
+      return sendMessage("Please insert the image URL and RICHY  will extract the text for you.");
     }
     const imageUrl = args.join(" ");
     const extractedTextUrl = "https://www.samirxpikachu.run.place/extract/text?url=" + imageUrl;
@@ -968,7 +968,7 @@ ezra({
       'image': {
         'url': extractedTextUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, {
       'quoted': messageInstance
     });
@@ -995,7 +995,7 @@ ezra({
       'image': {
         'url': generatedImageUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, {
       'quoted': messageInstance
     });
@@ -1024,7 +1024,7 @@ ezra({
       'image': {
         'url': generatedImageUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, {
       'quoted': messageInstance
     });
@@ -1051,7 +1051,7 @@ ezra({
       'image': {
         'url': beautifiedImageUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RICHY OBEDX*"
     }, {
       'quoted': messageInstance
     });
