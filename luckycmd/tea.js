@@ -38,14 +38,14 @@ ezra({ nomCom: "fetal", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┃⊛│◆ 𝚁𝚊𝚖  : 𝟴/𝟭𝟯𝟮 𝗚𝗕
 ┃⊛│◆ 𝙳𝚊𝚝𝚎  : *${date}*
 ┃⊛│◆ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
-┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : ғʀᴇᴅɪᴇ ᴛᴇᴄʜ
+┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : Obed ᴛᴇᴄʜ
 ┃⊛│◆ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : FRED
+┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : OBED
 ┃⊛└────••••────➻
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
 
-    let menuMsg = `𝙻𝚞𝚌𝚔𝚢 𝙼𝚍 𝙲𝚖𝚍`;
+    let menuMsg = `Richy obedX 𝙲𝚖𝚍`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -62,7 +62,7 @@ ezra({ nomCom: "fetal", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     
     menuMsg += `
-> Made By ғʀᴇᴅɪᴇ ᴛᴇᴄʜ\n`;
+> Made By Obed ᴛᴇᴄʜ\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
