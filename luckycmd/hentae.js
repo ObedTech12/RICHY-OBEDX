@@ -42,7 +42,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -73,7 +73,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -167,7 +167,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -199,7 +199,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot take by Lucky Md*`;
+    const cap = `*Screenshot take by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -231,7 +231,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -262,7 +262,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -294,7 +294,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -356,7 +356,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -388,7 +388,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -420,7 +420,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -452,7 +452,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by Richy ObedX*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -801,7 +801,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/unforgivable?text=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by Richy*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
