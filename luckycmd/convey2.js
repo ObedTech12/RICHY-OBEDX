@@ -70,7 +70,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"LUCKY-MD" ,
+      pack:"RICHY OBEDX" ,
       author: nomAuteurMessage,
       type:
         arg.includes("crop") || arg.includes("c")
@@ -94,7 +94,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"FREDI TECH", // pack stick
+      pack:"OBEDI TECH", // pack stick
       author:  nomAuteurMessage, // name of the author of the stick
       type:
         arg.includes("-r") || arg.includes("-c")
@@ -252,7 +252,7 @@ ezra({ nomCom: "fwords", categorie: "Conversion", reaction: "😂" }, async (ori
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'FREDI TECH',
+      author: 'OBEDI TECH',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",
