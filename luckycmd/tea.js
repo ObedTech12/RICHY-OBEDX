@@ -67,7 +67,7 @@ ezra({ nomCom: "fetal", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
         await zk.sendMessage(dest, {
-            image: { url: `https://files.catbox.moe/idb19j.jpeg` },
+            image: { url: `https://files.catbox.moe/o48zqn.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
