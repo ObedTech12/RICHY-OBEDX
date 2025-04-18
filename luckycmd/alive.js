@@ -91,7 +91,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre('  Lucky Md Is A Live 24hrs Enjoy To Use All Time🤗. ')
+repondre('  Richy Obedx Is A Live 24hrs Enjoy To Use All Time🤗. ')
 
 }
     });
