@@ -235,7 +235,7 @@ ezra({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner 🤦*");
+    return repondre("*This command is restricted to the bot owner or Richy owner 🤦*");
   }
 
   const appname = s.HEROKU_APP_NAME;
