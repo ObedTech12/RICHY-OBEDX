@@ -25,7 +25,7 @@ const handleAiCommand = async (dest, zk, params, url, usageExample) => {
           title: conf.BOT,
           body: "Keep learning",
           thumbnailUrl: conf.URL,
-          sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+          sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
           mediaType: 1,
           showAdAttribution: true,
         },
@@ -48,8 +48,8 @@ ezra({
 });
 
 ezra({
-  nomCom: "lucky",
-  aliases: ["luckymd", "luckybot"],
+  nomCom: "richy",
+  aliases: ["richyObedX", "richybot"],
   reaction: '🤦',
   categorie: "AI4"
 }, async (dest, zk, params) => {
@@ -104,7 +104,7 @@ ezra({
           title: conf.BOT,
           body: "keep Learning",
           thumbnailUrl: conf.URL,
-          sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+          sourceUrl: "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I",
           mediaType: 1,
           showAdAttribution: true,
         },
