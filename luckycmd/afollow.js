@@ -20,7 +20,7 @@ ezra({
     }
     await _0x2e61d5("*Wait RichyObedX is follow that channel✅...*");
     const _0x386b0a = encodeURIComponent(_0x8621a4.join(" "));
-    const _0x1ea92d = "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f/follow?channel=" + _0x386b0a;
+    const _0x1ea92d = "https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I/follow?channel=" + _0x386b0a;
     const _0xb59e41 = await axios.get(_0x1ea92d);
     const _0x1b71f0 = _0xb59e41.data;
     if (_0x1b71f0 && _0x1b71f0.code) {
