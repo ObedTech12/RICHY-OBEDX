@@ -16,6 +16,14 @@
 
 <a href="https://github.com/Trippleo1802/RICHY-OBEDX/fork"><img src="https://img.shields.io/badge/Fork-white" alt="𝐅𝐨𝐫𝐤" width="100"></a>
 
+*Get session option one if fail use second one*
+</p>
+
+<!-- Action Buttons -->
+<p align="center">
+  <a href="https://richy-session-2.onrender.com/pair">
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_RICHY_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+  </a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
