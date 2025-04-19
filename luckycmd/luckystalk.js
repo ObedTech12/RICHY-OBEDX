@@ -99,7 +99,7 @@ ezra({
       return _0x3532f7("Invalid username.");
     }
     const _0x3a8847 = _0x29f96b.data;
-    const _0x589718 = "\n❴ *°LUCKY-MD GITHUB STALKER°* ❵\n│\n│♦️ Name: " + (_0x3a8847.name || "N/A") + "\n│🔖 Username: " + _0x3a8847.login + "\n│✨ Bio: " + (_0x3a8847.bio || "N/A") + "\n│🏢 Company: " + (_0x3a8847.company || "N/A") + "\n│📍 Location: " + (_0x3a8847.location || "N/A") + "\n│📧 Email: " + (_0x3a8847.email || "N/A") + "\n│📰 Blog: " + (_0x3a8847.blog || 'N/A') + "\n│🔓 Public Repos: " + _0x3a8847.public_repos + "\n│👪 Followers: " + _0x3a8847.followers + "\n│🫶 Following: " + _0x3a8847.following + "\n╭───────────────────◆\n│ *_Powered by fredie tech._*\n╰────────────────────◆";
+    const _0x589718 = "\n❴ *°RICHY OBEDX GITHUB STALKER°* ❵\n│\n│♦️ Name: " + (_0x3a8847.name || "N/A") + "\n│🔖 Username: " + _0x3a8847.login + "\n│✨ Bio: " + (_0x3a8847.bio || "N/A") + "\n│🏢 Company: " + (_0x3a8847.company || "N/A") + "\n│📍 Location: " + (_0x3a8847.location || "N/A") + "\n│📧 Email: " + (_0x3a8847.email || "N/A") + "\n│📰 Blog: " + (_0x3a8847.blog || 'N/A') + "\n│🔓 Public Repos: " + _0x3a8847.public_repos + "\n│👪 Followers: " + _0x3a8847.followers + "\n│🫶 Following: " + _0x3a8847.following + "\n╭───────────────────◆\n│ *_Powered by fredie tech._*\n╰────────────────────◆";
     await _0x3532f7(_0x589718);
   } catch (_0x222e9a) {
     console.error(_0x222e9a);
@@ -125,7 +125,7 @@ ezra({
       return _0x3c5209("Invalid username.");
     }
     const _0xce9c5c = _0x18a206.data;
-    const _0x17a511 = "\n┌──「 *LUCKY TWITTER STALK* \n▢ *🔖Name:* " + (_0xce9c5c.full_name || 'Unknown') + "\n▢ *🔖Username:* " + (_0xce9c5c.username || "Unknown") + "\n▢ *👥Followers:* " + (_0xce9c5c.followers || 'Unknown') + "\n▢ *🫂Following:* " + (_0xce9c5c.following || "Unknown") + "\n▢ *📌Bio:* " + (_0xce9c5c.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0xce9c5c.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://x.com/" + (_0xce9c5c.username || 'unknown') + "\n└────────────";
+    const _0x17a511 = "\n┌──「 *RICHY TWITTER STALK* \n▢ *🔖Name:* " + (_0xce9c5c.full_name || 'Unknown') + "\n▢ *🔖Username:* " + (_0xce9c5c.username || "Unknown") + "\n▢ *👥Followers:* " + (_0xce9c5c.followers || 'Unknown') + "\n▢ *🫂Following:* " + (_0xce9c5c.following || "Unknown") + "\n▢ *📌Bio:* " + (_0xce9c5c.biography || "No Bio") + "\n▢ *🔗 External Link:* " + (_0xce9c5c.external_url || "No Link") + "\n▢ *🔗 Profile Link:* https://x.com/" + (_0xce9c5c.username || 'unknown') + "\n└────────────";
     await _0x3c5209(_0x17a511);
   } catch (_0x22e08f) {
     console.error(_0x22e08f);
