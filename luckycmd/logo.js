@@ -434,7 +434,7 @@ ezra({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeOp
     try{
       if(!arg||arg=="")
   {
-    repondre(prefixe+"purple Lucky");return;}
+    repondre(prefixe+"purple Richy");return;}
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
