@@ -11,7 +11,7 @@ ezra(
             "I'm a Whatsapp Bot Multi-Device";
         let d = " Made By *Obedie Sir*";
         let varmess = z + d;
-        var img = "https://files.catbox.moe/7irwqn.jpeg";
+        var img = "https://files.catbox.moe/h7g302.jpg";
         await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
         //console.log("montest")
     }
