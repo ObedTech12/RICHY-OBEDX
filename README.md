@@ -72,3 +72,4 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
+*THANK YOU FOR CHOOSING RICHY OBEDX BOT*
