@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { ezra } = require("../fredi/ezra");
 const { conf } = require('../set')
 ezra(
-    { nomCom: "luckymd", reaction: "👊", nomFichier: __filename },
+    { nomCom: "Richy ObedX", reaction: "👊", nomFichier: __filename },
     async (dest, zk, commandeOptions) => {
         console.log("Commande saisie !!!s");
         let z =
@@ -50,9 +50,9 @@ const sentMsg4  = await zk.sendMessage(
 // send a contact!
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Fredie Sir\n' // full name
+            + 'FN:Obedie Sir\n' // full name
             + 'ORG:Ashoka Uni;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=255752593977:+255752593977\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=254701082940:+254791637868\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 const sentMsg5  = await zk.sendMessage(
     dest,
