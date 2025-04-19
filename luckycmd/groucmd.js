@@ -480,7 +480,7 @@ ezra({
     let _0x4a6ecd = '';
     for (let _0x269fcd of _0x267c2d) {
       let _0x23a8f8 = _0x269fcd.id.split('@')[0x0];
-      let _0x5838c2 = _0x269fcd.name || _0x269fcd.notify || "[LUCKY] +" + _0x23a8f8;
+      let _0x5838c2 = _0x269fcd.name || _0x269fcd.notify || "[RICHY] +" + _0x23a8f8;
       _0x4a6ecd += "BEGIN:VCARD\nVERSION:3.0\nFN:" + _0x5838c2 + "\nTEL;type=CELL;type=VOICE;waid=" + _0x23a8f8 + ':+' + _0x23a8f8 + "\nEND:VCARD\n";
     }
     await _0x2e5b52("A moment, *RICHY_OBEDX* is compiling " + _0x267c2d.length + " contacts into a vcf...");
