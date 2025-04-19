@@ -1,4 +1,4 @@
-  RICHY OBEDX WHATSAPP BOT
+  *RICHY OBEDX WHATSAPP BOT*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="left">
